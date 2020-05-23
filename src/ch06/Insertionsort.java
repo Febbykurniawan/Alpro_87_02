@@ -1,6 +1,6 @@
 package ch06;
 
-public class Insertionsort {
+public class insertionsort {
     public static void main(String[] args) {
         int[]data ={82,12,41,39,19,26,9,48,20,55,8,32,3};
         for (int outer = data.length -1; outer > 0; outer--){

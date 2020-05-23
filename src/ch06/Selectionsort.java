@@ -1,6 +1,6 @@
 package ch06;
  import java.util.Scanner;
-public class Selectionsort{
+public class selectionsort{
     public static void main(String args[])
     {
         int size, i, j, temp, small, index, count=0;
@@ -41,3 +41,6 @@ public class Selectionsort{
         }
     }
 }
+
+
+
